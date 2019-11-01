@@ -1,3 +1,3 @@
-# go-template
+# sha-print
 
- A template Go repository.
+ sha-print prints the SHA256, SHA384, or SHA521 of the received input.

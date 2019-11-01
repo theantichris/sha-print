@@ -1,3 +1,3 @@
-module github.com/theantichris/go-template
+module github.com/theantichris/sha-print
 
 go 1.13
